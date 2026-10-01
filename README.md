@@ -15,6 +15,7 @@ For instance, the following image isn't me, a beautiful cat person, but the resu
 ## Random stuff
 - *Undyne Programming Language*, [esolangs.org](https://esolangs.org/wiki/Undyne_Programming_Language)
 - *Incendie*, [jetsdencre.univ-lyon1.fr](https://jetsdencre.univ-lyon1.fr/nouvelles/concours/jets-dencre-2025/incendie-joachim-rey)
+- *Firefox Addon*, [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/user/18248587/)
 
 ## TODO
 - Make an actually useful Github profile, understandable by most with actual information.
