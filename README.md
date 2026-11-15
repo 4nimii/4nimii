@@ -8,7 +8,7 @@
 
 Interested in my projects or looking forward to work with me ? Contact me via e-mail or open an issue on one of the repository I'm working on !
 
-Most of my repository were on my Forgejo instance and, as for my ~6000 books collection on ubookquity and navidrome instance, are not publicly accessible anymore. Running my TS460 all the time was too expensive, and everything now run on a Rasberry Pi. Also, I use DietPi, which I don't trust, as a replacement for FreeBSD.
+Most of my repositories were on my Forgejo instance and, as for my ~6000 books collection on ubookquity and navidrome instance, are not publicly accessible anymore. Running my TS460 all the time was too expensive, and everything now run on a Rasberry Pi. Also, I use DietPi, which I don't trust, as a replacement for FreeBSD.
 
 ---
 
